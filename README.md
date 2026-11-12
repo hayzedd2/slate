@@ -1,7 +1,11 @@
 Do more with visuals(WIP)
 
 <!-- shot:start -->
-[![Screenshot](docs/screenshot.png)](http://localhost:3001)
+[![Localhost](docs/screenshots/01-localhost.jpg)](localhost:3000)
 
-🔗 [Live demo](http://localhost:3001)
+![Canvas](docs/screenshots/02-canvas.jpg)
+
+![Callouts](docs/screenshots/03-callouts.jpg)
+
+🔗 [Live demo](localhost:3000)
 <!-- shot:end -->
